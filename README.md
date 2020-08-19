@@ -1,34 +1,34 @@
 # WattaGam
 
-1. Application Start
+## Application Start
 
-####라디오 버튼으로 사용자, 관리자 선택하여 회원가입 및 로그인
-
-
-2. Register
-
-####정보를 기입하여 회원가입. 각 정보는 Firebase의 User, Managers DB에 저장됨
+#### 라디오 버튼으로 사용자, 관리자 선택하여 회원가입 및 로그인
 
 
-3. Main_History
+## Register
 
-####User: 시설명, 입장시간, 시설연락처 출력
-
-####Manager: 유저정보, 입장시간, 연락처 출력
+#### 정보를 기입하여 회원가입. 각 정보는 Firebase의 User, Managers DB에 저장됨
 
 
-4. Main_QR Code
+## Main_History
 
-####User: Email hash값 QR생성
+#### User: 시설명, 입장시간, 시설연락처 출력
 
-####Manager: QR 코드 스캐너
-
-
-5. Main_Mypage
-
-####개인정보 출력, editprofile 버튼을 통하여 개인정보 변경화면으로 이동
+#### Manager: 유저정보, 입장시간, 연락처 출력
 
 
-6. Editprofile
+## Main_QR Code
 
-####변경하고 싶은 정보 입력받아 회원 정보 변경
+#### User: Email hash값 QR생성
+
+#### Manager: QR 코드 스캐너
+
+
+## Main_Mypage
+
+#### 개인정보 출력, editprofile 버튼을 통하여 개인정보 변경화면으로 이동
+
+
+## Editprofile
+
+#### 변경하고 싶은 정보 입력받아 회원 정보 변경
