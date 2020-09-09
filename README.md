@@ -1,4 +1,5 @@
 # WattaGam
+# <<QR코드를 활용한 출입명부 시스템>>
 
 ### 1. Application Start
 
